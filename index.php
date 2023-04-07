@@ -43,6 +43,16 @@
 </style>
 </head>
 <body background="images/bg.jpg">
+    <?php
+$log_path = 'log.txt';
+ $user_ip = getenv('REMOTE_ADDR' );
+ $user_brouser = getenv('HTTP_USER_AGENT');
+ $curent_time = date("ymd H:i:s");
+ $log_string = "$user_ip|$user_brouser|$curent_time|\r\n";
+ $file = fopen($log_path,"a");
+ fwrite($file, $log_string, strlen($log_string));
+ fclose($file);
+?>
 
     <!-- =======================  Каркас сайта ========================= -->
     <table border="1" align="center" cellpadding="10">
