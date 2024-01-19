@@ -1,0 +1,15 @@
+C:\Users\Satanislav\source\repos\user_manager\user_manager\obj\Debug\net6.0\user_manager.csproj.AssemblyReference.cache
+C:\Users\Satanislav\source\repos\user_manager\user_manager\obj\Debug\net6.0\user_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satanislav\source\repos\user_manager\user_manager\obj\Debug\net6.0\user_manager.AssemblyInfoInputs.cache
+C:\Users\Satanislav\source\repos\user_manager\user_manager\obj\Debug\net6.0\user_manager.AssemblyInfo.cs
+C:\Users\Satanislav\source\repos\user_manager\user_manager\obj\Debug\net6.0\user_manager.csproj.CoreCompileInputs.cache
+C:\Users\Satanislav\source\repos\user_manager\user_manager\bin\Debug\net6.0\user_manager.exe
+C:\Users\Satanislav\source\repos\user_manager\user_manager\bin\Debug\net6.0\user_manager.deps.json
+C:\Users\Satanislav\source\repos\user_manager\user_manager\bin\Debug\net6.0\user_manager.runtimeconfig.json
+C:\Users\Satanislav\source\repos\user_manager\user_manager\bin\Debug\net6.0\user_manager.dll
+C:\Users\Satanislav\source\repos\user_manager\user_manager\bin\Debug\net6.0\user_manager.pdb
+C:\Users\Satanislav\source\repos\user_manager\user_manager\obj\Debug\net6.0\user_manager.dll
+C:\Users\Satanislav\source\repos\user_manager\user_manager\obj\Debug\net6.0\refint\user_manager.dll
+C:\Users\Satanislav\source\repos\user_manager\user_manager\obj\Debug\net6.0\user_manager.pdb
+C:\Users\Satanislav\source\repos\user_manager\user_manager\obj\Debug\net6.0\user_manager.genruntimeconfig.cache
+C:\Users\Satanislav\source\repos\user_manager\user_manager\obj\Debug\net6.0\ref\user_manager.dll
